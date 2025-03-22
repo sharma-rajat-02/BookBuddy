@@ -1,0 +1,24 @@
+Name: Abhinav Koushik
+RegNo.: 23BAI10321
+School: SCAI
+Marks of 1st Sub: 99
+Marks of 2nd Sub: 98
+Marks of 3rd Sub: 96
+Marks of 4th Sub: 95
+Marks of 5th Sub: 93
+Name: Rajat Sharma
+RegNo.: 23BAI10159
+School: SCAI
+Marks of 1st Sub: 99
+Marks of 2nd Sub: 100
+Marks of 3rd Sub: 100
+Marks of 4th Sub: 98
+Marks of 5th Sub: 97
+Name: Vaibhav Tiwari
+RegNo.: 23BAI10108
+School: SCAI
+Marks of 1st Sub: 99
+Marks of 2nd Sub: 100
+Marks of 3rd Sub: 96
+Marks of 4th Sub: 89
+Marks of 5th Sub: 85
